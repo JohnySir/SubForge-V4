@@ -7,6 +7,8 @@
 
 **SubForge V4** is the ultimate evolution of subtitle muxing. Designed for collectors, encoders, and media enthusiasts, it transforms the tedious task of merging subtitles into a high-speed, intelligent, and automated experience.
 
+![gui](https://raw.githubusercontent.com/JohnySir/SubForge-V4/refs/heads/main/images/SS.png "gui") 
+
 ---
 
 ## ✨ What’s New in V4 (The "Titan" Update)
